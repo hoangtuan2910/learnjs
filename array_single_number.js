@@ -1,4 +1,4 @@
-var nums = [5,1,2,1,2];
+var nums = [1,2,5,1,2];
 
 var singleNumber = function(nums) {
     var result = nums[0];
